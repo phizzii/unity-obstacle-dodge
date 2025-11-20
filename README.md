@@ -105,9 +105,11 @@ Distributed under the project_license. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Sophie - [@VolarPhizzie](https://x.com/VolarPhizzie)
 
 Project Link: [https://github.com/phizzii/unity](https://github.com/phizzii/unity)
+
+LinkedIn: [Add me here!!](https://www.linkedin.com/in/sophie-botten-82a91227a/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
