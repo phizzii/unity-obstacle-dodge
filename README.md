@@ -1,23 +1,6 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
 
 <!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 [![Issues][issues-shield]][issues-url]
 [![project_license][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -26,7 +9,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/phizzii/unity">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/phizzii/unity/blob/main/Screenshot%202025-11-21%20at%2014.56.17.png" alt="Logo" width="600" height="400">
   </a>
 
 <h3 align="center">Unity</h3>
@@ -64,18 +47,14 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+This project (one of many hopefully!) will be a display of my efforts in recapping and covering my skills in Unity game engine for both 3D and 2D games.
 
-Here's a blank template to get started. To avoid retyping too much info, do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`, `project_license`
+This repo in particular will be a simple 'obstacle dodge' game in 3D where the player will have to dodge obstacles (hence the name), avoiding them so they don't get marked down for hitting them. This will enhance my ability to code in C# and skills in game development for scene layout and usability [more to come :)]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 ### Built With
 
@@ -86,19 +65,18 @@ Here's a blank template to get started. To avoid retyping too much info, do a se
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [ ] Creating "score board"
+- [ ] Getting objects to fly at player
+- [ ] Destroying objects
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/phizzii/unity/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 ## License
 
-Distributed under the project_license. See `LICENSE.txt` for more information.
+No license just learning!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -132,7 +110,7 @@ LinkedIn: [Add me here!!](https://www.linkedin.com/in/sophie-botten-82a91227a/)
 [license-url]: https://github.com/phizzii/unity/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/sophie-botten-82a91227a/
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: main/Screenshot%202025-11-21%20at%2014.56.17.png
 <!-- Shields.io badges. You can a comprehensive list with many more badges at: https://github.com/inttter/md-badges -->
 [Unity]: https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white
 [unity-url]: https://unity.com
