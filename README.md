@@ -12,10 +12,10 @@
     <img src="https://github.com/phizzii/unity/blob/main/Screenshot%202025-11-21%20at%2014.56.17.png" alt="Logo" width="600" height="400">
   </a>
 
-<h3 align="center">Unity</h3>
+<h3 align="center">Unity Obstacle Dodge</h3>
 
   <p align="center">
-    Portfolio for my Unity upskilling in both 2D and 3D game development and design.
+    Portfolio for my Unity upskilling in both 2D and 3D game development and design. First game: Obstacle Dodge
     <br />
     <a href="https://github.com/phizzii/unity"><strong>Explore the docs »</strong></a>
     <br />
