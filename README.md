@@ -58,7 +58,7 @@ This repo in particular will be a simple 'obstacle dodge' game in 3D where the p
 
 ### Built With
 
-* [![Unity][Unity]][unity-url]
+[![Unity][Unity]][unity-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -112,5 +112,5 @@ LinkedIn: [Add me here!!](https://www.linkedin.com/in/sophie-botten-82a91227a/)
 [linkedin-url]: https://www.linkedin.com/in/sophie-botten-82a91227a/
 [product-screenshot]: main/Screenshot%202025-11-21%20at%2014.56.17.png
 <!-- Shields.io badges. You can a comprehensive list with many more badges at: https://github.com/inttter/md-badges -->
-[Unity]: https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white
+[Unity]: https://img.shields.io/badge/unity-82D3FF?style=for-the-badge&logo=unity&logoColor=white
 [unity-url]: https://unity.com
