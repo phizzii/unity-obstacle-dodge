@@ -60,6 +60,8 @@ This repo in particular will be a simple 'obstacle dodge' game in 3D where the p
 
 [![Unity][Unity]][unity-url]
 
+[![C#][C#]][c#-url]
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ROADMAP -->
@@ -96,9 +98,7 @@ LinkedIn: [Add me here!!](https://www.linkedin.com/in/sophie-botten-82a91227a/)
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* []() 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -114,3 +114,5 @@ LinkedIn: [Add me here!!](https://www.linkedin.com/in/sophie-botten-82a91227a/)
 <!-- Shields.io badges. You can a comprehensive list with many more badges at: https://github.com/inttter/md-badges -->
 [Unity]: https://img.shields.io/badge/unity-82D3FF?style=for-the-badge&logo=unity&logoColor=white
 [unity-url]: https://unity.com
+[C#]: https://img.shields.io/badge/c%23-40A600?style=for-the-badge
+[c#-url]: https://dotnet.microsoft.com/en-us/languages/csharp
