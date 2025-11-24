@@ -87,7 +87,7 @@ MIT license for learning :)!
 
 Sophie - [@VolarPhizzie](https://x.com/VolarPhizzie)
 
-Project Link: [https://github.com/phizzii/unity](https://github.com/phizzii/unity-obstacle-dodge)
+Project Link: [https://github.com/phizzii/unity-obstacle-dodge](https://github.com/phizzii/unity-obstacle-dodge)
 
 LinkedIn: [Add me here!!](https://www.linkedin.com/in/sophie-botten-82a91227a/)
 
