@@ -40,6 +40,13 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -60,7 +67,31 @@ This repo in particular will be a simple 'obstacle dodge' game in 3D where the p
 
 [![Unity][Unity]][unity-url]
 
+[![C#][C#]][c#-url]
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+To get a local copy up and running follow these simple example steps. 
+
+### Prerequisites
+
+Have a device capable of running the latest version of Unity (currently Unity 6 as of Nov 25). 
+
+### Installation
+
+1. Download the latest version of Unity Hub from [https://unity.com](https://unity.com/download)
+2. In Unity Hub, install the recommend Unity Editor
+3. Clone the repo
+   ```sh
+   git clone https://github.com/phizzii/unity-obstacle-dodge.git
+   ```
+4. Then, open Unity Hub, click on "Add," and select the folder where the cloned project is located to load it into Unity!
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -85,7 +116,7 @@ MIT license for learning :)!
 
 Sophie - [@VolarPhizzie](https://x.com/VolarPhizzie)
 
-Project Link: [https://github.com/phizzii/unity](https://github.com/phizzii/unity-obstacle-dodge)
+Project Link: [https://github.com/phizzii/unity-obstacle-dodge](https://github.com/phizzii/unity-obstacle-dodge)
 
 LinkedIn: [Add me here!!](https://www.linkedin.com/in/sophie-botten-82a91227a/)
 
@@ -96,9 +127,7 @@ LinkedIn: [Add me here!!](https://www.linkedin.com/in/sophie-botten-82a91227a/)
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* []() 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -114,3 +143,5 @@ LinkedIn: [Add me here!!](https://www.linkedin.com/in/sophie-botten-82a91227a/)
 <!-- Shields.io badges. You can a comprehensive list with many more badges at: https://github.com/inttter/md-badges -->
 [Unity]: https://img.shields.io/badge/unity-82D3FF?style=for-the-badge&logo=unity&logoColor=white
 [unity-url]: https://unity.com
+[C#]: https://img.shields.io/badge/c%23-40A600?style=for-the-badge
+[c#-url]: https://dotnet.microsoft.com/en-us/languages/csharp
