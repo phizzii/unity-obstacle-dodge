@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class Dropper : MonoBehaviour
 {
+    [SerializeField] float timeToWait = 2f;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -11,6 +12,9 @@ public class Dropper : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Debug.Log(Time.time);
+        if (Time.time > timeToWait)
+        {
+            Debug.Log("lookout below");
+        }
     }
 }
