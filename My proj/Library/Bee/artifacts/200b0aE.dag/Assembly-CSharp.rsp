@@ -443,6 +443,7 @@
 "Assets/Scripts/ObjectHit.cs"
 "Assets/Scripts/Scorer.cs"
 "Assets/Scripts/Spinner.cs"
+"Assets/Scripts/TriggerProjectile.cs"
 "Assets/TutorialInfo/Scripts/Readme.cs"
 -langversion:9.0
 /deterministic
