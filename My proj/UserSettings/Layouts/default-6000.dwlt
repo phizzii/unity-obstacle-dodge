@@ -119,7 +119,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 104
+  controlID: 48
   draggingID: 0
 --- !u!114 &6
 MonoBehaviour:
@@ -171,7 +171,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 40
+  controlID: 18
   draggingID: 0
 --- !u!114 &8
 MonoBehaviour:
@@ -348,7 +348,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 1
+    m_EnableMouseInput: 0
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
@@ -421,7 +421,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 14fbffff44b20000
+      m_ExpandedIDs: 14fbfffff4ffffff32b2000044b20000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1039,9 +1039,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: -21.993061, y: 3.0391808, z: 18.403969}
+    m_Target: {x: 9.966536, y: 3.8016586, z: -0.6565707}
     speed: 2
-    m_Value: {x: -21.993061, y: 3.0391808, z: 18.403969}
+    m_Value: {x: 9.966536, y: 3.8016586, z: -0.6565707}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 2
@@ -1087,13 +1087,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.4958298, y: 0.12955561, z: -0.07509467, w: 0.8554198}
+    m_Target: {x: 0.12882644, y: 0.04343112, z: -0.005646569, w: 0.9907079}
     speed: 2
-    m_Value: {x: -0.4958298, y: -0.12955561, z: 0.07509467, w: -0.8554198}
+    m_Value: {x: -0.12882642, y: -0.04343112, z: 0.005646569, w: -0.9907078}
   m_Size:
-    m_Target: 33.18729
+    m_Target: 9.84964
     speed: 2
-    m_Value: 33.18729
+    m_Value: 9.84964
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1193,7 +1193,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 10b40000
     m_LastClickedID: 46096
-    m_ExpandedIDs: 00000000d4b20000
+    m_ExpandedIDs: 00000000eab20000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1222,7 +1222,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000d4b20000
+    m_ExpandedIDs: 00000000eab20000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1301,9 +1301,9 @@ MonoBehaviour:
     m_TextWithWhitespace: "Console\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 254
+    x: 0
     y: 539.5
-    width: 757.5
+    width: 1017
     height: 279.5
   m_SerializedDataModeController:
     m_DataMode: 0
@@ -1359,7 +1359,7 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 0
+  m_LastVerticalScrollValue: 225
   m_GlobalObjectId: 
   m_InspectorMode: 0
   m_LockTracker:
